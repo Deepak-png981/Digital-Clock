@@ -2,6 +2,7 @@ body{
     background-color: black;
     align-items: center;
     min-height: 100vh;
+    min-width: 100vh;
 }
 #digitalClock{
     position: fixed;
@@ -9,7 +10,7 @@ body{
     /* left: 28%; */
     background-color: red;
     font-size: 7rem;
-    width: 100%;
+/*     width: 100%; */
     color: rgb(255, 255, 255);
     text-align: center;
 }
