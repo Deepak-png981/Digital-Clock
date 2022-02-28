@@ -8,7 +8,8 @@ body{
     top:40%;
     /* left: 28%; */
     background-color: red;
-    font-size: 7rem;
+    font-size: 20vw;
+    height: auto;
     width: 100%;
     color: rgb(255, 255, 255);
     text-align: center;
